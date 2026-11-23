@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+    <x>0</x>
+    <y>0</y>
+    <back_c1>128</back_c1>
+    <back_c2>128</back_c2>
+    <back_c3>128</back_c3>
+    <fore_c1>128</fore_c1>
+    <fore_c2>255</fore_c2>
+    <fore_c3>255</fore_c3>
+    <front>0</front>
+    <trans>255</trans>
+</root>
